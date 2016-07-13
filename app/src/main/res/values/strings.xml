@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OrionTest</string>
+    <string name="action_sort_asc">Sort By A-Z</string>
+    <string name="action_sort_desc">Sort By Z-A</string>
+
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="msg_retry">Retry</string>
+    <string name="msg_loading">Loading…</string>
+    <string name="msg_err_unknown">Ooops, Something went wrong!</string>
+    <string name="msg_err_internet">Please check your internet connection.</string>
+    <string name="empty">Empty!</string>
+    <string name="loading_contacts">Loading Contacts…</string>
+    <string name="retry">Retry</string>
+    <string name="title_activity_contact_detail">ContactDetailActivity</string>
+    <string name="company">Company</string>
+    <string name="website">Website</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+
+</resources>
